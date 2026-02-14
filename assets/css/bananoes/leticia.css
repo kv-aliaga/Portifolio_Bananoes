@@ -1,0 +1,5 @@
+:root{
+    --banana-madura: var(--leticia);
+    --banana-verde: var(--leticia-claro);
+    --banana-casca: var(--leticia-escuro);
+}

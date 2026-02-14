@@ -1,0 +1,5 @@
+:root{
+    --banana-madura: var(--biadias);
+    --banana-verde: var(--biadias-claro);
+    --banana-casca: var(--biadias-escuro);
+}

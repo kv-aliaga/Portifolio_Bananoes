@@ -1,0 +1,5 @@
+:root{
+    --banana-madura: var(--davi);
+    --banana-verde: var(--davi-claro);
+    --banana-casca: var(--davi-escuro);
+}
